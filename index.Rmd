@@ -4,3 +4,6 @@ output: html_document
 ---
 
 Updates and announcements
+
+
+- syllabus updated. Readings posted for week 2. 

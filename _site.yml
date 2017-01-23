@@ -5,6 +5,6 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "syllabus"
-      href: about.html
+      href: syllabus.html
     - text: "readings"
       href: readings.html

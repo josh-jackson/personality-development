@@ -1,0 +1,26 @@
+---
+title: "Syllabus"
+output: html_document
+---
+
+---
+title: "psych 5355: personality and social development"
+author: 
+date: 
+output: html_document
+---
+<br>  
+
+####People#### 
+**Instructor**: Joshua Jackson  
+**Office**: 315B  
+**Office hours**: 10-11 Wednesday and by appointment  
+
+
+
+<br>  
+
+#### Course Descrition#### 
+
+
+
