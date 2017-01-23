@@ -11,11 +11,9 @@ output: html_document
 ---
 <br>  
 
-####People#### 
 **Instructor**: Joshua Jackson  
 **Office**: 315B  
 **Office hours**: 10-11 Wednesday and by appointment  
-
 
 
 <br>  
