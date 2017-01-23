@@ -1,0 +1,10 @@
+name: "personality-development"
+navbar:
+  title: "psych 5355: personality and social development"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "syllabus"
+      href: about.html
+    - text: "readings"
+      href: readings.html
