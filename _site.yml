@@ -1,4 +1,5 @@
 name: "personality-development"
+output_dir: "."
 navbar:
   title: "psych 5355: personality and social development"
   left:
