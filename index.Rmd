@@ -5,6 +5,7 @@ output: html_document
 
 Updates and announcements
 
+- Week 5 updated. 
 - Week 4 will be a shortened class with one reading, due to graduate recruitment. 
 - Week 3 readings and thought question updated. 
 - syllabus updated. Reading and thought question posted for week 2. 
