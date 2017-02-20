@@ -5,6 +5,7 @@ output: html_document
 
 Updates and announcements
 
+- week 6 updated. 
 - Week 5 updated. For the Heckman et al,. reading, ignore Section II - Methodology
 - Week 4 will be a shortened class with one reading, due to graduate recruitment. 
 - Week 3 readings and thought question updated. 
