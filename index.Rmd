@@ -5,6 +5,7 @@ output: html_document
 
 Updates and announcements
 
+- week 8 updated. 
 - week 7 updated. just skim van Scheppingen et al.  
 - week 6 updated. 
 - Week 5 updated. For the Heckman et al,. reading, ignore Section II - Methodology
