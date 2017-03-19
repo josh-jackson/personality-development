@@ -5,6 +5,7 @@ output: html_document
 
 Updates and announcements
 
+- week 10 updated. Also if you haven't talked to Josh about your final project, do so ASAP
 - week 8 updated. 
 - week 7 updated. just skim van Scheppingen et al.  
 - week 6 updated. 
